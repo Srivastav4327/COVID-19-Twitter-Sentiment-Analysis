@@ -1,8 +1,6 @@
-Here's a professional and clear `README.md` file you can directly use for your **COVID-19 Twitter Sentiment Analysis** GitHub project:
 
----
 
-```markdown
+
  🦠 COVID-19 Twitter Sentiment Analysis
 
 This project presents a domain-specific sentiment analysis approach to understand global public opinion on the COVID-19 pandemic using tweets. The dataset used is sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/), consisting of COVID-related tweets labeled with sentiments.
